@@ -22,7 +22,8 @@ nav {
     justify-content: space-evenly;
     align-items: center;
     width: 100%;
-    margin-bottom: 4%;
+    margin-bottom: 2%;
+    padding-top: 2%;
 
 }
 
@@ -46,6 +47,7 @@ a:hover {
 
 .nastyClass {
     margin: 4%;
+w
 }
 
 .topMainPhoto {
