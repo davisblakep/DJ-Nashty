@@ -47,16 +47,15 @@ a:hover {
 
 .nastyClass {
     margin: 4%;
-w
 }
 
 .topMainPhoto {
-    background-image: url("https://images.pexels.com/photos/323687/pexels-photo-323687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-image: url("https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/83897121_121682969364664_7230171229104111616_o.jpg?_nc_cat=107&_nc_ohc=J_j2VFHpip0AX_E4ICp&_nc_ht=scontent-ort2-2.xx&oh=a1546b6eb046c33506bcd1eba1cd9182&oe=5EBFCB14");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    height: 400px;
+    height: 600px;
 
     width: 100%;
     
